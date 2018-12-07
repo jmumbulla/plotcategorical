@@ -1,0 +1,2 @@
+# plotcategorical
+Plots categorical data
